@@ -3,6 +3,7 @@
 # reader.py
 
 Relies on the script athena_read athena/vis/python/athena_read.py
+
     aread(filename) # chooses right athena_read reader based on filename suffix
     cyltocart(r,phi,z) # basic transformation
     sphtocary(r,theta,phi) #basic transformation
